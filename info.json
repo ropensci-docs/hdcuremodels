@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "768486269063f3bfe3672ea45a4a178c577be392",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-08-24T15:28:53Z",
+    "files": 0,
+    "merge": false,
+    "message": "Change repository URLs in DESCRIPTION file (#2)\n\nUpdated repository URLs to point to the new owner."
+  },
+  "repo": "https://github.com/kelliejarcher/hdcuremodels",
+  "pkg": "hdcuremodels",
+  "time": "2026-08-24T16:15:24Z"
+}
